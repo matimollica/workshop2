@@ -1,0 +1,3 @@
+export const INCREMENT = 'INCREMENT'
+export const FILTER_PRODUCT = 'FILTER_PRODUCT'
+export const DECREMENT_STOCK = 'DECREMENT_STOCK'
